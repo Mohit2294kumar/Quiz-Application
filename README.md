@@ -16,6 +16,7 @@ Real-time answer tracking with visual feedback
 Navigation between questions with validation
 Scoring system: 5 points per correct answer
 Tracks correct/wrong answers separately
+
 3. Results & Scoring
 
 Displays final score and performance breakdown
